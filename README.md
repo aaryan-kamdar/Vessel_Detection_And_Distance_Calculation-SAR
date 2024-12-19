@@ -1,5 +1,3 @@
-Here is the updated **`README.md`** file without the *"How to Run"* section:
-
 ---
 
 # Vessel Detection and Distance Calculation in SAR Satellite Images
